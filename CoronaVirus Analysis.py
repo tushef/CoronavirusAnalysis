@@ -1,3 +1,9 @@
+"""
+    Coronavirus Analysis
+    @author: Fatjon Tushe
+    July 2020
+    Project For Personal Portfolio
+"""
 from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
