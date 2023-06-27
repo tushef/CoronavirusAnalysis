@@ -1,5 +1,5 @@
 # Coronavirus Analysis
-Conducting efficient overall analysis on the pandemic and visualizing the data using Plotly &amp; Dash
+Conducting efficient basic analysis on the pandemic and visualizing the data using Plotly &amp; Dash
 
 o Analysis on overall attributes of the pandemic in one country
 
